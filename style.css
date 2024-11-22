@@ -1,0 +1,46 @@
+body{
+    border: 3px solid white;
+    color: #ffff;
+    background-color: red;
+    margin: 0%;
+    font-family: "family", sans-serif;
+}
+
+h1{
+    font-size: 25px;
+}
+
+header{
+    color: #ffff;
+    background-color: brown;
+    border-bottom: 3px solid #ffff;
+    padding: 20px;
+    font-size: 32px;
+    color: #ffff;
+}
+
+section{
+    border: 2px solid white;
+    background-color: red;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.lucas{
+    display: flex;
+    justify-content: center;
+}
+
+.alura{
+    color: #ffff;
+    background-color: red;
+    display: flex;
+    justify-content: right;
+}
+
+.oi {
+    display: flex;
+    justify-content: right;
+}
